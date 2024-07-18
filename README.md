@@ -23,5 +23,5 @@ This Python program simulates the classic Magic 8-Ball toy, providing fortune-te
 - Implements conditional statements to select from 9 possible answers
 - Handles edge cases to ensure a response is always provided
 
-## Sample Output
+
 
